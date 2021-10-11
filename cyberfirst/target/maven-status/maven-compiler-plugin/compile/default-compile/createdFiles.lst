@@ -1,0 +1,13 @@
+net\web\UserRegistrationController.class
+net\constraint\FieldMatchValidator.class
+net\web\MainController.class
+net\Application.class
+net\constraint\FieldMatch$List.class
+net\service\UserService.class
+net\config\SecurityConfiguration.class
+net\constraint\FieldMatch.class
+net\web\dto\UserRegistrationDto.class
+net\model\User.class
+net\repository\UserRepository.class
+net\service\UserServiceImpl.class
+net\model\Role.class
